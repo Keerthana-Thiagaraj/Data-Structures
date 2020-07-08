@@ -1,3 +1,5 @@
+package SearchingAlgo;
+
 import java.util.List;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -18,7 +20,7 @@ public class BST {
         inOrder(root.right);
     }
 
-    //Recursive function to insert values in BST
+    //Recursive function to insert values in SearchingAlgo.BST
     public static Node insertKey(Node root, int value) {
 
         //If the root is found to be null, (i.e)node doesn't exists. Hence we are creating a new node
@@ -26,7 +28,7 @@ public class BST {
             return new Node(value);
         }
 
-        //Check for the duplicacy of the data in BST.
+        //Check for the duplicacy of the data in SearchingAlgo.BST.
         if (value == root.data) {
             return root;
         }
