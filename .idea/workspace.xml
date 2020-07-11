@@ -61,20 +61,12 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager" selected="Application.HeapSort">
+  <component name="RunManager" selected="Application.BubbleSort">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SearchingAlgo.BST" />
-      <module name="BinarySearchTree" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="BTFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortingAlgo.BTFromArray" />
@@ -92,6 +84,20 @@
     </configuration>
     <configuration name="BinayTreeToArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SortingAlgo.BinayTreeToArray" />
+      <module name="BinarySearchTree" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SortingAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingAlgo.BubbleSort" />
       <module name="BinarySearchTree" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -179,10 +185,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.BinayTreeToArray" />
         <item itemvalue="Application.BTFromArray" />
-        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
@@ -221,38 +227,38 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1594366200023" />
-    <state width="1398" height="131" key="GridCell.Tab.0.bottom" timestamp="1594405396472">
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1594466903249">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="131" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594405396472" />
-    <state width="1398" height="131" key="GridCell.Tab.0.center" timestamp="1594405396471">
+    <state width="1398" height="194" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594466903249" />
+    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1594466903247">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="131" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1594405396471" />
-    <state width="1398" height="131" key="GridCell.Tab.0.left" timestamp="1594405396471">
+    <state width="1398" height="194" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1594466903247" />
+    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1594466903246">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="131" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1594405396471" />
-    <state width="1398" height="131" key="GridCell.Tab.0.right" timestamp="1594405396472">
+    <state width="1398" height="194" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1594466903246" />
+    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1594466903248">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="131" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1594405396472" />
-    <state width="1398" height="307" key="GridCell.Tab.1.bottom" timestamp="1594374514898">
+    <state width="1398" height="194" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1594466903248" />
+    <state width="1398" height="307" key="GridCell.Tab.1.bottom" timestamp="1594405515518">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="307" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594374514898" />
-    <state width="1398" height="307" key="GridCell.Tab.1.center" timestamp="1594374514898">
+    <state width="1398" height="307" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594405515518" />
+    <state width="1398" height="307" key="GridCell.Tab.1.center" timestamp="1594405515518">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="307" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1594374514898" />
-    <state width="1398" height="307" key="GridCell.Tab.1.left" timestamp="1594374514897">
+    <state width="1398" height="307" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1594405515518" />
+    <state width="1398" height="307" key="GridCell.Tab.1.left" timestamp="1594405515517">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="307" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1594374514897" />
-    <state width="1398" height="307" key="GridCell.Tab.1.right" timestamp="1594374514898">
+    <state width="1398" height="307" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1594405515517" />
+    <state width="1398" height="307" key="GridCell.Tab.1.right" timestamp="1594405515518">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="307" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1594374514898" />
+    <state width="1398" height="307" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1594405515518" />
   </component>
   <component name="masterDetails">
     <states>
