@@ -3,11 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="3c0481f7-c442-4f89-a89a-5170ec7e752f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAlgo/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgo/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Data-Structures" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,7 +65,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
+  <component name="RunManager" selected="Application.MaxHeap">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -124,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortingAlgo.QuickSort" />
+    <configuration name="MaxHeap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SortingAlgo.MaxHeap" />
       <module name="BinarySearchTree" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -185,11 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxHeap" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.BinayTreeToArray" />
         <item itemvalue="Application.BTFromArray" />
-        <item itemvalue="Application.QuickSort" />
       </list>
     </recent_temporary>
   </component>
@@ -223,42 +227,42 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1594366200023">
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1594546634817">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1594366200023" />
-    <state width="1398" height="194" key="GridCell.Tab.0.bottom" timestamp="1594466903249">
+    <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1594546634817" />
+    <state width="1398" height="357" key="GridCell.Tab.0.bottom" timestamp="1594558186850">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594466903249" />
-    <state width="1398" height="194" key="GridCell.Tab.0.center" timestamp="1594466903247">
+    <state width="1398" height="357" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594558186850" />
+    <state width="1398" height="357" key="GridCell.Tab.0.center" timestamp="1594558186849">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1594466903247" />
-    <state width="1398" height="194" key="GridCell.Tab.0.left" timestamp="1594466903246">
+    <state width="1398" height="357" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1594558186849" />
+    <state width="1398" height="357" key="GridCell.Tab.0.left" timestamp="1594558186849">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1594466903246" />
-    <state width="1398" height="194" key="GridCell.Tab.0.right" timestamp="1594466903248">
+    <state width="1398" height="357" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1594558186849" />
+    <state width="1398" height="357" key="GridCell.Tab.0.right" timestamp="1594558186850">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="194" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1594466903248" />
-    <state width="1398" height="307" key="GridCell.Tab.1.bottom" timestamp="1594405515518">
+    <state width="1398" height="357" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1594558186850" />
+    <state width="1398" height="316" key="GridCell.Tab.1.bottom" timestamp="1594550441175">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="307" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594405515518" />
-    <state width="1398" height="307" key="GridCell.Tab.1.center" timestamp="1594405515518">
+    <state width="1398" height="316" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594550441175" />
+    <state width="1398" height="316" key="GridCell.Tab.1.center" timestamp="1594550441175">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="307" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1594405515518" />
-    <state width="1398" height="307" key="GridCell.Tab.1.left" timestamp="1594405515517">
+    <state width="1398" height="316" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1594550441175" />
+    <state width="1398" height="316" key="GridCell.Tab.1.left" timestamp="1594550441174">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="307" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1594405515517" />
-    <state width="1398" height="307" key="GridCell.Tab.1.right" timestamp="1594405515518">
+    <state width="1398" height="316" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1594550441174" />
+    <state width="1398" height="316" key="GridCell.Tab.1.right" timestamp="1594550441175">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="307" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1594405515518" />
+    <state width="1398" height="316" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1594550441175" />
   </component>
   <component name="masterDetails">
     <states>
