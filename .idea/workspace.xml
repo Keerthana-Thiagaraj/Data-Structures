@@ -64,15 +64,15 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager" selected="Application.DeleteGivenKey">
+  <component name="RunManager" selected="Application.DeleteNodeAtGivenPosition">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortingAlgo.BubbleSort" />
+    <configuration name="DeleteGivenKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.DeleteGivenKey" />
       <module name="BinarySearchTree" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteGivenKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.DeleteGivenKey" />
+    <configuration name="DeleteNodeAtGivenPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.DeleteNodeAtGivenPosition" />
       <module name="BinarySearchTree" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -174,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeleteNodeAtGivenPosition" />
         <item itemvalue="Application.DeleteGivenKey" />
         <item itemvalue="Application.LinkedListImpl" />
         <item itemvalue="Application.PriorityQueueImpl" />
         <item itemvalue="Application.MaxHeap" />
-        <item itemvalue="Application.BubbleSort" />
       </list>
     </recent_temporary>
   </component>
@@ -220,22 +220,22 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="482" y="59" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.830@0.23.1440.830" timestamp="1594563136132" />
-    <state width="1398" height="124" key="GridCell.Tab.0.bottom" timestamp="1594644408258">
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom" timestamp="1594645743752">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="124" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594644408258" />
-    <state width="1398" height="124" key="GridCell.Tab.0.center" timestamp="1594644408258">
+    <state width="1398" height="227" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594645743752" />
+    <state width="1398" height="227" key="GridCell.Tab.0.center" timestamp="1594645743752">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="124" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1594644408258" />
-    <state width="1398" height="124" key="GridCell.Tab.0.left" timestamp="1594644408257">
+    <state width="1398" height="227" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1594645743752" />
+    <state width="1398" height="227" key="GridCell.Tab.0.left" timestamp="1594645743752">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="124" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1594644408257" />
-    <state width="1398" height="124" key="GridCell.Tab.0.right" timestamp="1594644408258">
+    <state width="1398" height="227" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1594645743752" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right" timestamp="1594645743752">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="124" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1594644408258" />
+    <state width="1398" height="227" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1594645743752" />
     <state width="1398" height="316" key="GridCell.Tab.1.bottom" timestamp="1594566374070">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
