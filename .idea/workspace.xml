@@ -64,7 +64,7 @@
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
-  <component name="RunManager" selected="Application.SearchElement">
+  <component name="RunManager" selected="Application.FloydsLoopDetection">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -113,8 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList.LinkedListImpl" />
+    <configuration name="FloydsLoopDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedList.FloydsLoopDetection" />
       <module name="BinarySearchTree" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -174,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FloydsLoopDetection" />
         <item itemvalue="Application.SearchElement" />
         <item itemvalue="Application.CountNodes" />
         <item itemvalue="Application.DeleteNodeAtGivenPosition" />
         <item itemvalue="Application.DeleteGivenKey" />
-        <item itemvalue="Application.LinkedListImpl" />
       </list>
     </recent_temporary>
   </component>
@@ -216,42 +216,42 @@
       <screen x="0" y="23" width="1440" height="830" />
     </state>
     <state x="533" y="162" key="#com.intellij.ide.util.MemberChooser/0.23.1440.830@0.23.1440.830" timestamp="1594546634817" />
-    <state x="482" y="59" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594563136132">
+    <state x="482" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594717156297">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state x="482" y="59" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.830@0.23.1440.830" timestamp="1594563136132" />
-    <state width="1398" height="167" key="GridCell.Tab.0.bottom" timestamp="1594661057053">
+    <state x="482" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.830@0.23.1440.830" timestamp="1594717156297" />
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom" timestamp="1594717798969">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="167" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594661057053" />
-    <state width="1398" height="167" key="GridCell.Tab.0.center" timestamp="1594661057053">
+    <state width="1398" height="214" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594717798969" />
+    <state width="1398" height="214" key="GridCell.Tab.0.center" timestamp="1594717798968">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="167" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1594661057053" />
-    <state width="1398" height="167" key="GridCell.Tab.0.left" timestamp="1594661057052">
+    <state width="1398" height="214" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1594717798968" />
+    <state width="1398" height="214" key="GridCell.Tab.0.left" timestamp="1594717798968">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="167" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1594661057052" />
-    <state width="1398" height="167" key="GridCell.Tab.0.right" timestamp="1594661057053">
+    <state width="1398" height="214" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1594717798968" />
+    <state width="1398" height="214" key="GridCell.Tab.0.right" timestamp="1594717798968">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="167" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1594661057053" />
-    <state width="1398" height="306" key="GridCell.Tab.1.bottom" timestamp="1594659557865">
+    <state width="1398" height="214" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1594717798968" />
+    <state width="1398" height="306" key="GridCell.Tab.1.bottom" timestamp="1594661446658">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="306" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594659557865" />
-    <state width="1398" height="306" key="GridCell.Tab.1.center" timestamp="1594659557865">
+    <state width="1398" height="306" key="GridCell.Tab.1.bottom/0.23.1440.830@0.23.1440.830" timestamp="1594661446658" />
+    <state width="1398" height="306" key="GridCell.Tab.1.center" timestamp="1594661446657">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="306" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1594659557865" />
-    <state width="1398" height="306" key="GridCell.Tab.1.left" timestamp="1594659557864">
+    <state width="1398" height="306" key="GridCell.Tab.1.center/0.23.1440.830@0.23.1440.830" timestamp="1594661446657" />
+    <state width="1398" height="306" key="GridCell.Tab.1.left" timestamp="1594661446657">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="306" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1594659557864" />
-    <state width="1398" height="306" key="GridCell.Tab.1.right" timestamp="1594659557865">
+    <state width="1398" height="306" key="GridCell.Tab.1.left/0.23.1440.830@0.23.1440.830" timestamp="1594661446657" />
+    <state width="1398" height="306" key="GridCell.Tab.1.right" timestamp="1594661446658">
       <screen x="0" y="23" width="1440" height="830" />
     </state>
-    <state width="1398" height="306" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1594659557865" />
+    <state width="1398" height="306" key="GridCell.Tab.1.right/0.23.1440.830@0.23.1440.830" timestamp="1594661446658" />
   </component>
   <component name="masterDetails">
     <states>
