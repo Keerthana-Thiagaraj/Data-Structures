@@ -1,5 +1,6 @@
 package SortingAlgo;
 
+
 public class InsertionSort {
 
     public static void main(String[] args) {
@@ -19,13 +20,13 @@ public class InsertionSort {
 
         int n = a.length;
         int value = 0, j;
-        for (int i = 1; i < n; i++) {
+        for (int i = 1; i < n; i++) { // loop starts from index-1 as the 1st element is considered to be sorted
 
             value = a[i];
-            j = i - 1;
+            j = i - 1; // For comparing backwards from the opted value
             while (j >= 0 && a[j] > value) {
-                a[j + 1] = a[j];
-                j--;
+                a[j + 1] = a[j];  // if the digit is greater than value, we are pushing towards the end of the array
+                j--; // continuosly tracking backwards
             }
             a[j + 1] = value;
         }
