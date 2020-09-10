@@ -3,7 +3,8 @@ package String;
 public class MultiplyStrings {
     public static void main(String[] args) {
         MultiplyStrings multiplyStrings = new MultiplyStrings();
-        String multiply = multiplyStrings.getProduct("2456", "3");
+        String multiply = multiplyStrings.getProduct("1234", "3424");
+        System.out.println(multiply);
     }
 
     private String getProduct(String no1, String no2) {
@@ -16,15 +17,15 @@ public class MultiplyStrings {
             if (no1.matches("\\d+") && no2.matches("\\d+")) {
                 
                 for (int i = 0; i < no1.length(); i++) {
-                    result1 = result1 * 10 + no1.charAt(i) - '0';
+                    result1 = result1 * 10 + ((int)no1.charAt(i) - 48);
                 }
                 for (int j = 0; j < no2.length(); j++) {
-                    result2 = result2 * 10 + no2.charAt(j) - '0';
+                    result2 = result2 * 10 + ((int)no2.charAt(j) - 48);
                 }
             }
         }
 
-        return "";
+        return String.valueOf(result1*result2);
     }
 
     public boolean checkZero(String no1,String no2){
